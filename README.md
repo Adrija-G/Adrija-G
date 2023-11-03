@@ -3,9 +3,9 @@
 I'm a passionate developer and GitHub enthusiast. Here's a glimpse of my GitHub profile:
 
 - :octocat: I have contributed to various open-source projects.
-- :rocket: I enjoy working on projects related to web development and data science.
-- :computer: My favorite programming languages are Python, JavaScript, and Java.
-- :bar_chart: Check out my GitHub stats below.
+- :rocket: I enjoy working on projects related to web development, AI and machine learning.
+- :computer: My preferred programming languages are Python, HTML, CSS and Javascript.
+- :bar_chart: Check out my GitHub stats below:
 
 ![GitHub Stats]( https://github-readme-stats.vercel.app/api?username=Adrija-G&show_icons=true&count_private=true )
 
