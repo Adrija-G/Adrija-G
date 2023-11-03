@@ -1,9 +1,9 @@
 # Hello, I'm Adrija! 
 
-I'm a passionate developer and GitHub enthusiast. Here's a glimpse of my GitHub profile:
+I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast. Here's a glimpse of my GitHub profile:
 
 - :octocat: I have contributed to various open-source projects.
-- :rocket: I enjoy working on projects related to web development, AI and machine learning.
+- :rocket: I enjoy working on projects related to web development, UI/UX, AI and machine learning.
 - :computer: My preferred programming languages are Python, HTML, CSS and Javascript.
 - :bar_chart: Check out my GitHub stats below:
 
@@ -24,8 +24,6 @@ I'm a passionate developer and GitHub enthusiast. Here's a glimpse of my GitHub 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact)](https://github.com/Adrija-G)
 
 [![GitHub Profile Summary](https://profile-summary-for-github.com/user/Adrija-G)](https://github.com/Adrija-G)
-
-[![Repository Count](https://img.shields.io/badge/Repositories-XX-brightgreen)](https://github.com/Adrija-G?tab=repositories)
 
 [![GitHub Total Commits](https://badgen.net/github/commits/Adrija-G)](https://github.com/Adrija-G)
 [![GitHub Total Contributions](https://badgen.net/github/last-commit/Adrija-G)](https://github.com/Adrija-G)
