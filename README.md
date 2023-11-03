@@ -25,9 +25,10 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 [![GitHub Profile Summary](https://profile-summary-for-github.com/user/Adrija-G)](https://github.com/Adrija-G)
 
-[![GitHub Total Commits](https://badgen.net/github/commits/Adrija-G)](https://github.com/Adrija-G)
-[![GitHub Total Contributions](https://badgen.net/github/last-commit/Adrija-G)](https://github.com/Adrija-G)
-[![GitHub Total Issues](https://badgen.net/github/open-issues/Adrija-G)](https://github.com/Adrija-G)
+[![GitHub Total Commits](https://img.shields.io/github/commit-activity/y/Adrija-G/Adrija-G)](https://github.com/Adrija-G)
+[![GitHub Total Contributions](https://img.shields.io/github/last-commit/Adrija-G/Adrija-G)](https://github.com/Adrija-G)
+[![GitHub Total Issues](https://img.shields.io/github/issues/Adrija-G/Adrija-G)](https://github.com/Adrija-G)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adrija-G)
 
