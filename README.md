@@ -19,8 +19,6 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Adrija-G)
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Adrija-G&show_icons=true&theme=dark)](https://github.com/Adrija-G)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact)](https://github.com/Adrija-G)
 
 [![GitHub Profile Summary](https://profile-summary-for-github.com/user/Adrija-G)](https://github.com/Adrija-G)
