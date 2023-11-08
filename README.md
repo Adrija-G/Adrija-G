@@ -9,9 +9,9 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 ![GitHub Stats]( https://github-readme-stats.vercel.app/api?username=Adrija-G&show_icons=true&count_private=true )
 
-[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G) ]( https://github.com/Adrija-G )
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G) ]( https://github.com/Adrija-G )       
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact)]( https://github.com/Adrija-G )
+[![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact) ]( https://github.com/Adrija-G )
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adrija-G)
 
