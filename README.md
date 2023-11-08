@@ -11,6 +11,8 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 [![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G) ]( https://github.com/Adrija-G )
 
+[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact)]( https://github.com/Adrija-G )
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Adrija-G)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adrija-G)
@@ -19,7 +21,6 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Adrija-G)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija-G&layout=compact)](https://github.com/Adrija-G)
 
 [![GitHub Profile Summary](https://profile-summary-for-github.com/user/Adrija-G)](https://github.com/Adrija-G)
 
