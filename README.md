@@ -31,6 +31,5 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adrija-G)
 
-[![Pinned Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Adrija-G&repo=Computer-Network-Algorithms-in-Python)](https://github.com/Adrija-G)
 
 
