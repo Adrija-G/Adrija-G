@@ -4,7 +4,7 @@ I'm an aspiring engineer as well as a part-time programmer and GitHub enthusiast
 
 - :octocat: I have contributed to various open-source projects.
 - :rocket: I enjoy working on projects related to web development, UI/UX, AI and machine learning.
-- :computer: My preferred programming languages are Python, HTML, CSS and Javascript.
+- :computer: My preferred programming languages are Python, C++, HTML and JS.
 - :bar_chart: Check out my GitHub stats below:    
 
 
